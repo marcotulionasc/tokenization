@@ -27,12 +27,12 @@ body {
   button {
     margin-left: 10px;
     padding: 8px 12px;
-    background-color: #f1f1f1;
-    border: 1px solid #ccc;
+    background-color: #00ff1a;
+    border: 1px solid #15d632;
     border-radius: 4px;
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: #22b836;
+    color: #ffffff;
     cursor: pointer;
     transition: background-color 0.3s ease;
   }
